@@ -8,6 +8,8 @@ gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
 
+Ваш ip: 87.192.67.0
+
 information = "Offline"
 
 print(f"""
@@ -15,7 +17,7 @@ Welcome to Termux!
  ___________________
 |👤 Пользователь    |
 |-------------------|
-|👤 USER_NAME: Sasha|
+|👤 USER_NAME:      |
 |___________________|
 Administrator: {re}"""+ information + f"""{wh}
 Wiki:            {cy}https://wiki.termux.com{wh}
