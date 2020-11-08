@@ -12,6 +12,8 @@ IP = "Ваш ip: 87.192.67.0"
 
 information = "Offline"
 
+print("Code: 30813663")
+
 print(f"""
 Welcome to Termux!
 pint("")
