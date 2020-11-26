@@ -9,11 +9,11 @@ cy ="\033[1;36m"
 sn ="\033[1;35m"
 
 IP = "Ваш ip: 87.192.67.0"
-
+cesh = "0"
 information = "Offline"
 
 print("Code: 30813663")
-
+print("Telegram bank: "+ str(cesh) +"монет")
 print(f"""
 Welcome to Termux!
 pint("")
