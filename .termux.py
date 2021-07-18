@@ -9,23 +9,14 @@ cy ="\033[1;36m"
 sn ="\033[1;35m"
 
 IP = "Ваш ip: 87.192.67.0"
-cesh = "0"
-information = "Offline"
 
-print("Code: 30813663")
-print("Telegram bank: "+ str(cesh) +"монет")
 print(f"""
 Welcome to Termux!
 pint("")
 print(IP)
 print("")
- ___________________
-|👤 Пользователь    |
-|-------------------|
-|👤 USER_NAME:      |
-|___________________|
-Administrator: {re}"""+ information + f"""{wh}
-Wiki:            {cy}https://wiki.termux.com{wh}
+
+{wh}Wiki:            {cy}https://wiki.termux.com{wh}
 Community forum: {cy}https://termux.com/community{wh}
 Gitter chat:     {cy}https://gitter.im/termux/termux{wh}
 GitHub:          {cy}https://github.com/Anton064{wh}
